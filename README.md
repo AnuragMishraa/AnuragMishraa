@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AnuragMishraa&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
 <img alt='analytics' src='https://profile-counter.glitch.me/AnuragMishraa/count.svg' width='0px'>
