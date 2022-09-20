@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anurag
-<p align="center">
 ===============================================================================================================================
+
+
 <!--  ![](https://komarev.com/ghpvc/?username=AnuragMishraa) -->
 
 
@@ -44,7 +45,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 <a target="_blank" href="https://twitter.com/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+</a><br>
+  
 
 
 ## ✨GitHub Stats  : 
