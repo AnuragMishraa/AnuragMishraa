@@ -1,13 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anurag
+<p align="center">
 ===============================================================================================================================
-![](https://komarev.com/ghpvc/?username=AnuragMishraa)
+<!--  ![](https://komarev.com/ghpvc/?username=AnuragMishraa) -->
 
 
 * 🧠  I'm learning HTML, CSS and REACT
-* ✉️  You can contact me at [](mailto:anuragmishra052002@gmail.com)
-- 📫 &nbsp;How to reach me: [@AnuragM29990088](https://twitter.com/AnuragM29990088)
-* 🤝  I'm open to collaborating on crazy project ideas.
-- ⚡ &nbsp; I :heart: :camera:s and cars 
+
+* ✉️  You can contact me at [anuragmishra052002@gmail.com]("mailto:anuragmishra052002@gmail.com")
+
+- 🔭 I’m currently working on **ReactJS and NodeJS**
+
+* 🤝  I'm open to collaborate on **MERN Stack** Projects.
+
+- ⚡ &nbsp; :heart: 📸s and cars 
 
 
 ### Skills
@@ -41,7 +46,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
-### Badges
 
 ## ✨GitHub Stats  : 
 <div align="center">
