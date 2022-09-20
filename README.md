@@ -17,9 +17,12 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/anurag-mishra-840619217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/itsanuragbtw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-📊 &nbsp;**This week I spent my time on**
+## ✨GitHub Stats  : 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnuragMishraa" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragMishraa&theme=tokyonight" />
+</div>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AnuragMishraa&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<br/>  
 
-
-<img alt='analytics' src='https://profile-counter.glitch.me/AnuragMishraa/count.svg' width='0px'>
+![Anurag's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnuragMishraa&theme=nord) 
