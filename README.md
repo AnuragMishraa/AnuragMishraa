@@ -5,11 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!--  ![](https://komarev.com/ghpvc/?username=AnuragMishraa) -->
 
 
-* 🧠  I'm learning HTML, CSS and REACT
+* 🧠  I'm learning ML and its brainstorming implementations.
 
 * ✉️  You can contact me at [anuragmishra052002@gmail.com](mailto:anuragmishra052002@gmail.com)
 
-- 🔭 I’m currently working on **ReactJS and NodeJS**
+- 🔭 I’m currently working on **ReactJS and NEXT.js**
 
 * 🤝  I'm open to collaborate on **MERN Stack** Projects.
 
