@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!--  ![](https://komarev.com/ghpvc/?username=AnuragMishraa) -->
 
 
-* 🧠  I'm learning ML and its brainstorming implementations.
+* 🧠  I'm learning how to design evolving systems.
 
 * ✉️  You can contact me at [anuragmishra052002@gmail.com](mailto:anuragmishra052002@gmail.com)
 
